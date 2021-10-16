@@ -1,9 +1,9 @@
-# worker_thredads_example
+# worker_threads_example
 
 В репозитории присутствуют 2 папки, simple-server and worker
 
 Для запуска скриптов ```node file_name.js```
-
+Не забываем ```npm i```
 
 Для simple-server есть 2 ендпоинта
 / - с тяжелой задачей
